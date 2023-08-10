@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfUmSxKbq7URVJU4DKrAyPMh+Eh59grmfLiLaIYXWlMbkvfxYiIJhueSsMoCU/4IPeyE1ayYU8Qgpwg8Z4OMVg==",
+  "success": true,
+  "projectFilePath": "D:\\WinMerge\\AVisualStudioProject\\FactoryMethod\\ScrapingWeb\\ScrapingWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512"
+  ],
+  "logs": []
+}

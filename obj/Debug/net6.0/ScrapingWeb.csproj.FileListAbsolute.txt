@@ -1,0 +1,17 @@
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ScrapingWeb.exe
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ScrapingWeb.deps.json
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ScrapingWeb.runtimeconfig.json
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ScrapingWeb.dll
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ref\ScrapingWeb.dll
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\ScrapingWeb.pdb
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.csproj.AssemblyReference.cache
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.AssemblyInfoInputs.cache
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.AssemblyInfo.cs
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.csproj.CoreCompileInputs.cache
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.csproj.CopyComplete
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.dll
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ref\ScrapingWeb.dll
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.pdb
+D:\WinMerge\AVisualStudioProject\FactoryMethod\ScrapingWeb\obj\Debug\net6.0\ScrapingWeb.genruntimeconfig.cache
