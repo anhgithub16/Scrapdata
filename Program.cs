@@ -121,5 +121,6 @@ Scrap.ScrapProcess(inputBaloWithXpath);
 //Console.WriteLine($"Title: {title}");
 #endregion
 
+
 Console.WriteLine("Success!");
 Console.ReadKey();
