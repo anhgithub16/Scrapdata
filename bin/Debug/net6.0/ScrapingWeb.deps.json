@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ScrapingWeb/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.50"
+        },
+        "runtime": {
+          "ScrapingWeb.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.50": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.50.0",
+            "fileVersion": "1.11.50.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScrapingWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.50": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lxxkDIykfX2HgMZZdmU8gT4vWQvOUjkCsCXmSRaAGuAofyzUjIjJFJHWeBXk+dJ9af0qXJyJ/Td7dBbWQpgM3Q==",
+      "path": "htmlagilitypack/1.11.50",
+      "hashPath": "htmlagilitypack.1.11.50.nupkg.sha512"
+    }
+  }
+}
