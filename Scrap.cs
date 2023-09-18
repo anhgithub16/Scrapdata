@@ -1,5 +1,5 @@
 ﻿using HtmlAgilityPack;
-
+using System.Text;
 namespace ScrapingWeb
 {
     public class Scrap
@@ -60,6 +60,7 @@ namespace ScrapingWeb
                     throw new Exception("Url_base is invalid: Url is not null or empty!");
                 }
                 HtmlWeb web = new HtmlWeb();
+                web.OverrideEncoding = Encoding.GetEncoding("utf-8");
                 doc = web.Load(url);
             }
             catch (Exception ex)
@@ -253,7 +254,7 @@ namespace ScrapingWeb
                     while (temp != null && temp.Count > 0)
                     {
                         int count = temp.Count;
-                        string merge = string.Join("/", temp);
+                        string merge = "/" + string.Join("/", temp); //vì sao có tempalte như này? đọc xml/xpath/xpath syntax
                         HtmlNode? nodeGet = doc.DocumentNode.SelectNodes(merge)?.FirstOrDefault();
                         if (nodeGet == null)
                         {
